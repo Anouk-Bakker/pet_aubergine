@@ -3,7 +3,7 @@
 
 This project is just for fun, nothing serious. I wanted to try MakeCode Arcade and so I did. :) 
 
-> Open this page at [https://grandmanouschka.github.io/pet_aubergine/](https://grandmanouschka.github.io/pet_aubergine/)
+> Open this page at [https://Anouk-Bakker.github.io/pet_aubergine/](https://grandmanouschka.github.io/pet_aubergine/)
 
 ## Use as Extension
 
