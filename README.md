@@ -3,7 +3,7 @@
 
 This project is just for fun, nothing serious. I wanted to try MakeCode Arcade and so I did. :) 
 
-> Open this page at [https://Anouk-Bakker.github.io/pet_aubergine/](https://grandmanouschka.github.io/pet_aubergine/)
+> Open this page at [https://Anouk-Bakker.github.io/pet_aubergine/](https://Anouk-Bakker.github.io/pet_aubergine/)
 
 ## Use as Extension
 
@@ -12,22 +12,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/grandmanouschka/pet_aubergine** and import
+* search for **https://github.com/Anouk-Bakker/pet_aubergine** and import
 
-## Edit this project ![Build status badge](https://github.com/grandmanouschka/pet_aubergine/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/Anouk-Bakker/pet_aubergine/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/grandmanouschka/pet_aubergine** and click import
+* paste **https://github.com/Anouk-Bakker/pet_aubergine** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/grandmanouschka/pet_aubergine/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/Anouk-Bakker/pet_aubergine/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
